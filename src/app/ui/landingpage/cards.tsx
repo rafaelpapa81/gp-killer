@@ -122,7 +122,7 @@ export function DealCard({
         </div>
 
         {/* Card Body */}
-        <div className="card-body p-4">
+        <div className="card-body p-3 pt-2">
           {/* <h6 className="card-subtitle mb-1 text-muted">{businessName}</h6> */}
           <h5 className="card-title fw-bold mb-1">{dealTitle}</h5>
           
